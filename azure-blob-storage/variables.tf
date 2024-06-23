@@ -1,20 +1,20 @@
 variable "resource_group_name" {
-  description = "Name of the resource group"
+  description = "Nazwa grupy zasobow"
 }
 
 variable "location" {
-  description = "Location of the resources"
+  description = "Lokalizacja"
 }
 
 variable "storage_account_name" {
-  description = "Name of the storage account"
+  description = "Nazwa konta"
 }
 
 variable "storage_container_name" {
-  description = "Name of the storage container"
+  description = "Nazwa kontenera"
 }
 
 variable "storage_blob_name" {
-  description = "Name of the storage blob"
+  description = "Nazwa bloba"
 }
 
